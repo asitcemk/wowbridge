@@ -30,6 +30,8 @@ class UserList(APIView):
 		serializer = UserSerializer(data=request.DATA)
 		if serializer.is_valid():
 			serializer.save()
+			#my_group = Group.objects.get(name='Admin') 
+			# my_group.user_set.add(1)
 			return Response(serializer.data, status=status.HTTP_201_CREATED)
 		return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
