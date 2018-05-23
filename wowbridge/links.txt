@@ -1,2 +1,9 @@
 https://pypi.org/project/django-table-prefix/
 http://www.elasticsearchtutorial.com/spatial-search-tutorial.html
+{
+    "location" : {
+        "type" : "circle",
+        "coordinates" : [-45.0, 45.0],
+        "radius" : "100m"
+    }
+}
