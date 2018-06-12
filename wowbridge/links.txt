@@ -7,3 +7,12 @@ http://www.elasticsearchtutorial.com/spatial-search-tutorial.html
         "radius" : "100m"
     }
 }
+
+"filter" : {
+                "geo_distance" : {
+                    "distance" : "10miles",
+                    "location" : [31.131,29.976]
+                }
+            }
+
+https://github.com/vivex/react-infinite-scroll/blob/master/js/main.js
