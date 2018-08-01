@@ -18,3 +18,5 @@ http://www.elasticsearchtutorial.com/spatial-search-tutorial.html
 https://github.com/vivex/react-infinite-scroll/blob/master/js/main.js
 
 https://www.npmjs.com/package/react-places-autocomplete
+
+https://devexpress.github.io/devextreme-reactive/react/grid/demos/featured/redux-integration/
