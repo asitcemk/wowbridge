@@ -22,3 +22,11 @@ https://www.npmjs.com/package/react-places-autocomplete
 https://devexpress.github.io/devextreme-reactive/react/grid/demos/featured/redux-integration/
 
 https://stackoverflow.com/questions/11754620/div-with-position-fixed-to-bottom-stop-when-hitting-footer
+
+routes changes
+
+https://stackoverflow.com/questions/41911309/how-to-listen-to-route-changes-in-react-router-v4
+
+token
+https://stackoverflow.com/questions/44852054/cant-cancel-axios-post-request-via-canceltoken
+https://forum.vuejs.org/t/cancel-and-axios-request-when-another-one-is-submitted/26276
