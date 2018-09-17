@@ -37,3 +37,8 @@ phone number format
 https://stackoverflow.com/questions/8358084/regular-expression-to-reformat-a-us-phone-number-in-javascript
 
 https://github.com/axios/axios/blob/master/examples/upload/index.html
+
+multiple file upload
+https://gist.github.com/BilalBudhani/97c36307bfb184d32f4125bcedc0fd55
+
+https://dev.to/bilalbudhani/upload-multiple-files-to-cloudinary-using-react-dropzone--axios
