@@ -46,3 +46,5 @@ checkbox group
 https://stackoverflow.com/questions/42836060/multiple-checkbox-in-redux-form
 
 https://www.npmjs.com/package/react-websocket
+
+https://medium.freecodecamp.org/force-refreshing-a-react-child-component-the-easy-way-6cdbb9e6d99c
