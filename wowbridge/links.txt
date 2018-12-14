@@ -48,3 +48,21 @@ https://stackoverflow.com/questions/42836060/multiple-checkbox-in-redux-form
 https://www.npmjs.com/package/react-websocket
 
 https://medium.freecodecamp.org/force-refreshing-a-react-child-component-the-easy-way-6cdbb9e6d99c
+
+drag & drop 
+https://github.com/kutlugsahin/smooth-dnd-demo/tree/master/src/demo/pages
+
+class SelectContainer extends React.Component {
+  render(){
+    return (<div onKeyUp={this.props.inputChange}>{this.props.children}</div>)
+  }
+}
+inputChange = (e) => {
+    console.log(e.target.value);
+  }
+
+<SelectContainer inputChange={this.inputChange}>
+        <Select
+        options={options}
+      />
+      </SelectContainer>
