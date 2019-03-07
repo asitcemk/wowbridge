@@ -115,3 +115,4 @@ https://material-ui.com/demos/autocomplete/#react-select
 https://dev.to/crazedvic/checkbox-group-component-in-react-final-form-5431
 https://redux-form.com/7.2.3/examples/material-ui/
 https://material-ui.com/demos/selection-controls/
+https://github.com/erikras/redux-form/issues/1336
