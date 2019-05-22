@@ -117,3 +117,5 @@ https://redux-form.com/7.2.3/examples/material-ui/
 https://material-ui.com/demos/selection-controls/
 https://github.com/erikras/redux-form/issues/1336
 https://stackoverflow.com/questions/47476186/when-user-is-not-logged-in-redirect-to-login-reactjs
+https://stackoverflow.com/questions/44649665/redirect-user-to-intended-url-after-login-reactjs
+https://codedaily.io/tutorials/49/Create-a-ProtectedRoute-for-Logged-In-Users-with-Route-Redirect-and-a-Render-Prop-in-React-Router
