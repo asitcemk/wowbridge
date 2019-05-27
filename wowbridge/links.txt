@@ -123,3 +123,4 @@ https://stackoverflow.com/questions/32841757/detecting-user-leaving-page-with-re
 https://medium.com/@heyamberwilkie/adding-an-unsaved-changes-prompt-to-a-redux-form-5fab7e4e181a
 https://stackoverflow.com/questions/42929472/react-router-v4-default-pagenot-found-page
 http://mondotondo.com/2017/03/14/how-to-convert-promises-to-an-observable/
+https://stackoverflow.com/questions/48158190/how-do-i-print-fetch-promise-value-in-reactjs/48159423
