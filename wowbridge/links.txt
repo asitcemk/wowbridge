@@ -124,3 +124,7 @@ https://medium.com/@heyamberwilkie/adding-an-unsaved-changes-prompt-to-a-redux-f
 https://stackoverflow.com/questions/42929472/react-router-v4-default-pagenot-found-page
 http://mondotondo.com/2017/03/14/how-to-convert-promises-to-an-observable/
 https://stackoverflow.com/questions/48158190/how-do-i-print-fetch-promise-value-in-reactjs/48159423
+
+https://stackoverflow.com/questions/52951723/creating-private-route-when-isauth-comes-from-a-callback
+https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+https://stackoverflow.com/questions/55358875/how-to-perform-authentication-with-react-hooks-and-react-router
