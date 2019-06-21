@@ -1,5 +1,6 @@
 import React from 'react';
 import parse from 'html-react-parser';
+import CKEditor from "react-ckeditor-component";
 import logo from './logo.svg';
 import './App.css';
 
@@ -27,6 +28,27 @@ str+="<p>After you get your head around these 3 essentials, all you have to do i
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <CKEditor 
+            config={{
+          language: 'en',
+                uiColor: '#f0f0f0',
+                resize_enabled: true,
+                removePlugins: 'elementspaths',
+                removeButtons: '',
+                toolbar: [
+                    {name: 'insert', items: ['Image', 'Table', 'SpecialChar', 'CodeSnippet']}, // 'Mathjax' for math
+                    {name: 'basicstyles', groups: ['basicstyles', 'cleanup'], items: ['Underline', 'Strike', 'Subscript', 'Superscript']},
+                    {name: 'tools', items: ['Maximize']},
+                    {name: 'colors', items: ['TextColor']},
+                    {name: 'editing', groups: ['spellchecker']},
+                ],
+
+                filebrowserImageUploadUrl: '/api/upload-question-image?opener=ckeditor&type=images',
+                extraAllowedContent: 'audio[*]{*};sub;sup;i;span;',
+                height: 'auto',
+                width: '100%',           
+    }}
+             />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
