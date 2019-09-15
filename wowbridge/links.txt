@@ -128,3 +128,24 @@ https://stackoverflow.com/questions/48158190/how-do-i-print-fetch-promise-value-
 https://stackoverflow.com/questions/52951723/creating-private-route-when-isauth-comes-from-a-callback
 https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 https://stackoverflow.com/questions/55358875/how-to-perform-authentication-with-react-hooks-and-react-router
+
+email
+https://www.workflowmax.com/blog/creatives/creatives-5-email-templates-client-relations
+
+https://www.alyssamartin.com/blog/how-to-write-client-emails
+
+https://www.sampletemplates.com/letter-templates/quotation-letters.html
+https://millo.co/5-email-scripts-following-client-unresponsive-plus-examples
+https://support.estimaterocket.com/43839-emailing/email-templates
+
+Dear Bruce
+
+We'd like to thank you for choosing The Best Design Agency for your project. With the information you provided we've been able to create a detailed brief of your job and how best we can help you achieve your goals.
+
+The plan is attached for your consideration, along with a quote for the final fee.
+
+I'm aware the quoted amount ($10,780) is above our original estimate. At the time of the estimate, we didn't have all the details for your project. This quote is of full project fee and the final price – you won't get a nasty surprise when the bill comes!
+
+We appreciate your feedback on the brief, and if there are any amendments to be made, please let us know. We look forward to working with you!
+
+Yours Sincerely
