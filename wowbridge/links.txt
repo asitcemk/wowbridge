@@ -140,3 +140,13 @@ https://support.estimaterocket.com/43839-emailing/email-templates
 
 Git Auto Pull
 https://github.com/vicenteguerra/git-deploy
+
+Employee Portal
+https://dreamguys.co.in/smarthr/orange/index.html
+http://www.wrraptheme.com/templates/lucid/hr/html/light/report-expense.html
+
+JIRA API
+https://github.com/lesstif/php-jira-rest-client
+
+https://app.moqups.com/oHR0vPd1jk/edit/page/ad64222d5
+https://www.onlinecharttool.com/graph?selected_graph=multipie
