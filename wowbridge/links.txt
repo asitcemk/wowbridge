@@ -150,3 +150,5 @@ https://github.com/lesstif/php-jira-rest-client
 
 https://app.moqups.com/oHR0vPd1jk/edit/page/ad64222d5
 https://www.onlinecharttool.com/graph?selected_graph=multipie
+PHP Permission
+https://www.sitepoint.com/role-based-access-control-in-php/
